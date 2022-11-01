@@ -1,0 +1,36 @@
+sound alattar 123345
+advance alatatr 999999
+set
+include
+contact
+comfort
+amaze
+locate
+inform
+appear
+regard
+reflect
+consider
+entertain
+advise
+mention
+introduce
+treat
+purchase
+gather
+indicate
+appreciate
+pound
+exist
+realize
+observe
+excite
+feed
+exercise
+fit 
+guide
+strike
+unite   unit
+faint
+
+	
